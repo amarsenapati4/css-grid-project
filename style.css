@@ -89,7 +89,7 @@
         grid-column: 1/span 3;
     }
 }
-@media screen and (min-width:700px) and (max-width:950px)
+@media screen and (min-width:700px) and (max-width:998px)
 {
     .container{
         width:40%;
